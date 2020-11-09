@@ -1,0 +1,5 @@
+messages:
+  invalid-direction: "&cInvalid direction, please specify 'UP' or 'DOWN'."
+  no-sign-found: "&cAnother sign wasn't found in the direction you are attempting to travel. Please go place another elevator sign there."
+  teleported-down: "&cYou have been teleported to the depths of the earth."
+  teleported-up: "You have been teleported into heaven."

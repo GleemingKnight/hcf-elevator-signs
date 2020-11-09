@@ -1,0 +1,4 @@
+target/
+libs/
+
+dependency-reduced-pom.xml
